@@ -18,9 +18,12 @@
 ========
 
 .. toctree::
-   :maxdepth: 3
+    :titlesonly:
 
-    镜像 <mirrors>
+    概览 <overview>
+    镜像 <images>
+    镜像库 <registries>
+    镜像站点 <mirrors>
 
 .. comments
     comment something out below

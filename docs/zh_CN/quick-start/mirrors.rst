@@ -1,4 +1,4 @@
-.. 镜像
+.. 镜像站点
     FileName:   mirrors.rst
     Author:     Fasion Chan
     Created:    2018-03-26 19:44:42
@@ -15,9 +15,9 @@
 
 .. _mirrors:
 
-====
-镜像
-====
+========
+镜像站点
+========
 
 .. code-block:: shell-session
 
@@ -36,6 +36,12 @@
     8181cde51c65: Pull complete
     Digest: sha256:691c55aabb3c4e3b89b953dd2f022f7ea845e5443954767d321d5f5fa394e28c
     Status: Downloaded newer image for registry.docker-cn.com/library/mysql:5.7
+
+.. code-block:: shell-session
+
+    $ docker pull python
+    Using default tag: latest
+    Error response from daemon: Get https://registry-1.docker.io/v2/library/python/manifests/latest: unauthorized: incorrect username or password
 
 .. comments
     comment something out below

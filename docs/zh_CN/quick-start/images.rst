@@ -1,7 +1,7 @@
-.. 服务
-    FileName:   index.rst
+.. 镜像
+    FileName:   images.rst
     Author:     Fasion Chan
-    Created:    2018-03-26 19:30:40
+    Created:    2018-12-05 18:31:58
     @contact:   fasionchan@gmail.com
     @version:   $Id$
 
@@ -13,15 +13,9 @@
     :description lang=zh:
     :keywords:
 
-========
-服务
-========
-
-.. toctree::
-    :titlesonly:
-
-    MySQL <mysql>
-    RabbitMQ <rabbitmq>
+====
+镜像
+====
 
 .. comments
     comment something out below

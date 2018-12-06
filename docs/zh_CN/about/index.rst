@@ -14,9 +14,10 @@
 ====
 
 .. toctree::
-   :maxdepth: 2
+    :titlesonly:
 
     交流 <contact>
+    留言板 <message-board>
 
 .. comments
     comment something out blow
